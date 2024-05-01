@@ -1,6 +1,6 @@
 {
-    "name": "beonchat_admin",
-    "short_name": "beonchat_admin",
+    "name": "test_web",
+    "short_name": "test_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
